@@ -1,0 +1,31 @@
+full_name,gender,past_3_years_bike_related_purchases,age,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,state,property_valuation,customer_type_appearances,total_transactions_across_types,total_amount_spent_across_types,popular_purchase_class
+"Jillie Fyndon",Female,61,51,"Programmer Analyst IV",Manufacturing,"Mass Customer",N,Yes,QLD,4,1,14,19071.319999999996,medium
+"Hercule ",Male,2,46,"VP Marketing",Entertainment,"Mass Customer",N,Yes,QLD,8,1,13,18349.270000000004,medium
+"Jeffry Slowly",Male,93,46,"Nurse Practicioner",Retail,"Affluent Customer",N,No,NSW,10,1,12,18052.68,medium
+"Tye Doohan",Male,13,28,"Recruiting Manager","Financial Services","Affluent Customer",N,Yes,QLD,8,1,10,17898.46,medium
+"Melantha Pickburn",Female,45,55,"Social Worker",Health,"Affluent Customer",N,No,VIC,10,1,11,17258.940000000002,medium
+"Raffaello Godleman",Male,64,35,"Speech Pathologist",Health,"High Net Worth",N,No,VIC,2,1,12,17160.24,medium
+"Ericka Eggers",Female,29,25,"Biostatistician I","Financial Services","Affluent Customer",N,Yes,QLD,7,1,13,17035.83,medium
+"Deana Rathbourne",Female,32,37,"Executive Secretary",n/a,"Mass Customer",N,Yes,NSW,10,1,13,16199.240000000002,medium
+"Herc McIlhone",Male,40,38,"Accounting Assistant I",Manufacturing,"Affluent Customer",N,No,QLD,5,1,12,16122.339999999998,medium
+"Ammamaria Standbridge",Female,30,50,"Analog Circuit Design manager",Health,"Affluent Customer",N,No,Victoria,9,1,10,15826,medium
+"Glynnis Sailor",Female,76,45,"Financial Advisor","Financial Services","High Net Worth",N,Yes,NSW,10,1,12,15447.92,medium
+"Barrett Lindley",Male,2,50,"General Manager",Retail,"Mass Customer",N,Yes,QLD,2,1,9,15370.809999999998,medium
+"Kynthia Purcer",Female,22,58,"Director of Sales",IT,"Affluent Customer",N,Yes,VIC,9,1,10,15321.18,medium
+"Delores Ashcroft",Female,97,46,"Nuclear Power Engineer",Manufacturing,"Affluent Customer",N,No,VIC,7,1,11,15091.910000000002,medium
+"De Denington",Female,19,46,"Research Associate","Financial Services","Mass Customer",N,Yes,QLD,6,1,12,14782.23,medium
+"Kenon Messruther",Male,38,54,"Legal Assistant",Manufacturing,"Mass Customer",N,No,VIC,1,1,13,14756.09,medium
+"Dido Leyburn",Female,12,35,"Recruiting Manager",n/a,"High Net Worth",N,No,VIC,9,1,10,14662.14,medium
+"Morley Shutt",Male,92,50,"Information Systems Manager","Financial Services","High Net Worth",N,Yes,NSW,9,1,8,14633.239999999998,medium
+"Milton Gorini",Male,28,41,"VP Accounting","Financial Services","Mass Customer",N,Yes,NSW,8,1,11,14609.220000000001,medium
+"Timothy Wenham",Male,91,39,"Executive Secretary","Financial Services","Mass Customer",N,No,VIC,5,1,11,14593.220000000001,medium
+"Hal Braddon",Male,13,67,"Administrative Officer",Property,"High Net Worth",N,No,QLD,5,1,14,14578.69,medium
+"Cleve Jindrak",Male,78,40,"Speech Pathologist",Retail,"Mass Customer",N,No,NSW,8,1,13,14574.06,medium
+"Ham Mayoh",Male,25,50,,Manufacturing,"Mass Customer",N,No,NSW,10,1,10,14532.51,medium
+"Queenie Flips",Female,25,23,"Assistant Manager",Retail,"Affluent Customer",N,No,QLD,9,1,10,14529.949999999999,medium
+"Ddene Burleton",Female,85,35,"Assistant Professor",Health,"Mass Customer",N,Yes,NSW,11,1,12,14475.619999999999,medium
+"Siegfried Trattles",Male,33,23,Pharmacist,Health,"Affluent Customer",N,No,NSW,9,1,12,14390.100000000002,medium
+"Fields Bayne",Male,89,51,"Web Developer IV",Entertainment,"High Net Worth",N,Yes,NSW,9,1,12,14387.59,medium
+"Georas Niesel",Male,29,44,"Electrical Engineer",Manufacturing,"Mass Customer",N,No,NSW,8,1,12,14366.260000000002,medium
+"Frazer Searston",Male,5,28,,Health,"Mass Customer",N,Yes,NSW,8,1,14,14254.55,medium
+"Brett Scrancher",Female,43,38,"Health Coach II",Retail,"Mass Customer",N,No,Victoria,10,1,10,14208.25,medium
